@@ -126,5 +126,3 @@ sumBtn.addEventListener('click', totalBalance);
 getRandomUser();
 getRandomUser();
 getRandomUser();
-getRandomUser();
-getRandomUser();
